@@ -9,21 +9,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Unclear issue
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. 深度学习相比浅层学习的优势，是如何解决梯度消失的
+2. 深度网络的损失如何度量以及如何训练
+3. 卷积、池化、dropout的原理
+4. 深度网络防止过拟合的方式
+5. 构造深度网络输入的一些技巧及其作用原理
+6. 如何理解RNN的记忆特性
+7. 数据量及数据（包括标签）干净程度对深度网络的影响。
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
