@@ -4,12 +4,12 @@ You can use the [editor on GitHub](https://github.com/ai-snail/lab/edit/master/R
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Unclear issue
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Unclear issue
+by hzq
 
 1. 深度学习相比浅层学习的优势，是如何解决梯度消失的
 2. 深度网络的损失如何度量以及如何训练
