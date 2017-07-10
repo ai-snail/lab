@@ -32,6 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### project idea
 1. 口形识别，输入口型输出普通话
 2. 步态识别，通过步态，确定一个人
+3. 异常行为检测，打人检测、丢弃物品之类的
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ai-snail/lab/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
