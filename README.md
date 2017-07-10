@@ -34,7 +34,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 2. 步态识别，通过步态，确定一个人
 3. 异常行为检测，打人检测、丢弃物品之类的
 4. 人脸识别较为成熟，但是也可以从头到尾走一遍
-5. 基于深度学习的视觉跟踪，可以帮助我们了解迁移学习，样本增加,并了解视觉跟踪的原理
+5. 基于深度学习的视觉跟踪
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ai-snail/lab/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
