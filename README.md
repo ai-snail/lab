@@ -16,8 +16,10 @@ by hzq
 5. 构造深度网络输入的一些技巧及其作用原理
 6. 如何理解RNN的记忆特性
 7. 数据量及数据（包括标签）干净程度对深度网络的影响。
-8. 吴恩达当初识别猫脸的神经网络原理
 ```
+### Task
+1. 猫脸识别非监督学习
+2. 谷歌大脑的其它深度学习相关工作
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
