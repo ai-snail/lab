@@ -47,6 +47,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 4. 人脸识别较为成熟，但是也可以从头到尾走一遍
 5. 基于深度学习的视觉跟踪，例如卷积神经网络
 
+### research institue
+1. [google Research](https://research.googleblog.com/)
+
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ai-snail/lab/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
