@@ -20,6 +20,7 @@ by hzq
 ### Task
 1. 猫脸识别非监督学习
 2. 谷歌大脑的其它深度学习相关工作
+3. 3D Convolutional Neural Networks for Human Action Recognition
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
