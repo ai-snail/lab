@@ -55,6 +55,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 3. 异常行为检测，打人检测、丢弃物品之类的
 4. 人脸识别较为成熟，但是也可以从头到尾走一遍
 5. 基于深度学习的视觉跟踪，例如卷积神经网络
+6. 中文word2vec(包括敏感词)
 
 ### research institue
 1. [google Research](https://research.googleblog.com/)
