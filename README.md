@@ -31,7 +31,7 @@ by xiaolang
 ```markdown
 by lhc
 1. 使用基于矩阵的方法推导自编码，CNN，lstm的梯度
-
+```
 
 ### Task
 1. 猫脸识别非监督学习
