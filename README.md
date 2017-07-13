@@ -65,6 +65,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### resource 
 1. [论文检索](http://sci-hub.cc)
+2. https://github.com/terryum/awesome-deep-learning-papers
 
 ### Support or Contact
 
