@@ -31,7 +31,7 @@ by xiaolang
 ```markdown
 by lhc
 1. 使用基于矩阵的方法推导自编码，CNN，lstm的梯度
-2. 随机梯度下降的理论性证明
+2. 随机梯度下降的有效性证明
 ```
 
 ### Task
