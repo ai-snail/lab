@@ -36,6 +36,9 @@ by xiaolang
 by lhc
 1. 使用基于矩阵的方法推导自编码，CNN，lstm的梯度
 2. 随机梯度下降的有效性证明
+3. tensorflow的坑：
+ 3.1  name_scope 只能控制操作， variable_scope能够控制参数，设置参数的复用，需要使用variable_scope能够控制参数，需要理解tf中的共享变量的意义
+ 3.2  tensorflow书上的错误。p179中执行cell.zero_state（batch_size, tf.float32）会出错，这是因为在执行的时候evaluation的时候，在批量传入测试样本的时候，不能保证每次的batch_size都是一样的，会出现错误， 可以采用： batch_size_t = tf.shape(x_in)[0]，动态初始化，   tensorflow实战这本书很坑。。
 ```
 
 ### Task
