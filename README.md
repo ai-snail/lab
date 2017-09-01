@@ -29,7 +29,7 @@ by xiaolang
 5. 网络训练好后，后面的分类如softmax、svm等，如何选择分类算法，目前主流的用法是什么，输出文档
 6. dropout、bagging，boosting之间的理论关系和优缺点
 7. 半监督学习的案例
-8. 基于小样本的机器学习，如何训练网络，有哪些方法提高精度  [scan](https://arxiv.org/abs/1707.03389).
+8. 基于小样本的机器学习，如何训练网络，有哪些方法提高精度  [scan] (https://arxiv.org/abs/1707.03389).
 
 ```
 
